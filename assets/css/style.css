@@ -3,10 +3,10 @@
 }
 
 :root {
-  --primary: #44e9ff;
-  --secondary: #497980;
-  --tertiary: rgb(192, 246, 253);
-  --grey: #333;
+  --primary: #e64298;
+  --secondary: #b29bc7;
+  --tertiary: #f1ebf5;
+  --grey: #f171a1;
   font-size: 62.5%;
 }
 
@@ -98,7 +98,7 @@ footer {
   list-style: none;
   padding: 15px;
   height: calc(100% - 50px);
-  background: rgb(196, 196, 196);
+  background: #a1c2d1;
   border-radius: 12px;
   border: 2px solid var(--grey);
 }
@@ -199,7 +199,7 @@ footer {
 
 .select-dropdown:hover,
 .select-status:hover {
-  border-color: #888;
+  border-color: #a1c3d1;
 }
 
 .select-dropdown:focus,
